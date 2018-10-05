@@ -20,7 +20,7 @@
   line-height: 90px;
   color: #fff;
   text-align: center;
-  background: #4aaaa5 !important; 
+  background: darkolivegreen !important; 
 }
 
 
@@ -110,7 +110,7 @@ h1 {
 
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #4aaaa5;
+    color: darkolivegreen;
     }
 p {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -139,7 +139,7 @@ li {
         font-size: 18px;
         color: #fff;
         cursor: pointer;
-        background: #4aaaa5;
+        background: darkolivegreen;
         border: 0 none;
     }
     
@@ -174,10 +174,11 @@ li {
     top: 45%;
     left: 0;
     width: 274px;
-    background-color: #4aaaa5;
+    background-color: darkolivegreen;
     height: 75px;
     margin-top: 35px;
     padding-top: 20px;
+    opacity: .8 !important;
     
 }
 
@@ -185,7 +186,9 @@ li {
     color: white;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 22px;
+    
 }
+
 
 .col-md-3{
     margin-right: 25px;
